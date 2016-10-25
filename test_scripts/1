@@ -1,0 +1,1 @@
+python /home/xad/rti_test/ad_document_scripts/rti0.py -a 900240 | tee rti_test.txt | tr -d '\000' | grep session | cut -d ' ' -f2>key1.txt

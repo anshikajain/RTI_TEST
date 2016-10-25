@@ -1,0 +1,8 @@
+{
+            "database":"marketplace",
+            "user":"root",
+            "port":"3336",
+            "password":"venableroot",
+            "host":"ec2-54-196-26-194.compute-1.amazonaws.com"
+
+}
